@@ -1,0 +1,3 @@
+http://localhost/phpmyadmin.php
+http://localhost/svu_booking/admin_register.php
+https://localhosts.mobi/phpmyadmin
